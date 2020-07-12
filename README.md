@@ -1,0 +1,2 @@
+# nikko_nyukingaku
+日興證券にいくら入金したか算出するPythonスクリプト
